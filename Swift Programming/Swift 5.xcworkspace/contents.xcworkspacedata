@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Strings.playground">
+   </FileRef>
+   <FileRef
       location = "group:Operators in Swift .playground">
    </FileRef>
    <FileRef
